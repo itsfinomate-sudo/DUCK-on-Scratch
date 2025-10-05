@@ -2,9 +2,13 @@ This is for scratch only and there's a load from your computer thing from scratc
 Notes and Credits:
 Updates:
 v1.0 just bread, 1 jellyfish, and 1 fish
+
 v1.1 added a bomb
+
 v1.2 get some of scratch meows chocolate
+
 v1.3 changed to wasd keys because I got used to it fast
+
 v1.4 added drone, made bomb stronger, doesn't immediately  make the costume for the lives go next
 
 ----------------------------------------------------------------------------
