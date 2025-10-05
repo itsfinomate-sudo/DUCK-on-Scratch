@@ -10,12 +10,12 @@ v1.4 added drone, made bomb stronger, doesn't immediately  make the costume for 
 
 DUCK!!!!!!!!!! By scratch_meow_2023
 Controls: W: jump
-                A: Go left
-                D: Go right
+          A: Go left
+          D: Go right
 ----------------------------------------------------------------------------
 Stuff: Glowy Thing - Lives 
-         Bottom Variable - Highscore
-         High Variable - Your Score
+       Bottom Variable - Highscore
+       High Variable - Your Score
 ----------------------------------------------------------------------------
 Other: Try beat my highscore which is 135 I know that in the past it was 525 but that was the 1.0 version so that's why it changed.
          
