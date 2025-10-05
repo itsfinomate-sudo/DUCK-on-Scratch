@@ -6,14 +6,23 @@ v1.1 added a bomb
 v1.2 get some of scratch meows chocolate
 v1.3 changed to wasd keys because I got used to it fast
 v1.4 added drone, made bomb stronger, doesn't immediately  make the costume for the lives go next
+
 ----------------------------------------------------------------------------
 
 DUCK!!!!!!!!!! By scratch_meow_2023
-Controls: W: jump
-          A: Go left
-          D: Go right
+Controls: 
+
+
+W: jump 
+
+A: Go left
+
+D: Go right
+
 ----------------------------------------------------------------------------
-Stuff: Glowy Thing - Lives 
+Stuff: 
+Glowy Thing - Lives 
+       
        Bottom Variable - Highscore
        High Variable - Your Score
 ----------------------------------------------------------------------------
