@@ -31,4 +31,8 @@ Glowy Thing - Lives
        High Variable - Your Score
 ----------------------------------------------------------------------------
 Other: Try beat my highscore which is 135 I know that in the past it was 525 but that was the 1.0 version so that's why it changed.
+       Link here: https://scratch.mit.edu/projects/1223898393/
+
+----------------------------------------------------------------------------
+
          
